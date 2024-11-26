@@ -1,0 +1,14 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Vendor directory
+vendor/
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
