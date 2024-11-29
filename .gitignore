@@ -12,3 +12,7 @@ vendor/
 .vscode/
 .idea/
 *.swp
+
+db-data/*
+
+sql/*
